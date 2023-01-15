@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siriphong Chotirat</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
-<img align="right" alt="Coding" width"400" src"https://img.freepik.com/free-vector/designer-concept-illustration_114360-676.jpg?w=900&t=st=1673794201~exp=1673794801~hmac=be112f08d9427b375361af857768ef40e7fd6f785c522e434aeb5afddb76ebc2"/>
+
 - 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **siriphong.chotirat@gmail.com**
